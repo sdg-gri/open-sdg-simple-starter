@@ -36,9 +36,9 @@ create_pages: true
 
 # Replace the email addresses below.
 email_contacts:
-  questions: test@example.com
-  suggestions: test@example.com
-  functional: test@example.com
+  questions: jeanpierre.cordeiro@gmail.com
+  suggestions: jeanpierre.cordeiro@gmail.com
+  functional: jeanpierre.cordeiro@gmail.com
 
 # International Support
 # Eg name: Australia and adjective: Australian
@@ -73,7 +73,7 @@ menu:
 
 # Footer Menu
 footer_menu:
-  - path: mailto:my-email-address@example.com
+  - path: mailto:jeanpierre.cordeiro@gmail.com
     translation_key: menu.contact_us
   - path: https://twitter.com/MyTwitterAccount
     translation_key: general.twitter
