@@ -16,9 +16,9 @@ languages:
   - en
 
 # URL for the "Edit Data" button on indicators.
-data_edit_url: http://prose.io/#my-org/my-repo/edit/develop/data/indicator_[id].csv
+data_edit_url: http://prose.io/#sdg-gri/open-sdg-simple-starter/edit/develop/data/indicator_[id].csv
 # URL for the "Edit Metadata" button on indicators.
-metadata_edit_url: http://prose.io/#my-org/my-repo/edit/develop/meta/[id].md
+metadata_edit_url: http://prose.io/#sdg-gri/open-sdg-simple-starter/edit/develop/meta/[id].md
 
 # Automatically create indicator pages, goal pages,
 # and some other required pages.
